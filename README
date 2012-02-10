@@ -1,0 +1,3 @@
+Input attributes' title will be copied as placeholder (if not supported, it's created a dynamic placeholder using value attribute).
+
+jQuery is required!
